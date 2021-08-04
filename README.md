@@ -1,3 +1,3 @@
 Demo
 
-some leanring
+some leanring to gain some knowledge
